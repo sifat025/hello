@@ -1,3 +1,3 @@
 # hello
 i have html
-https://github.com/sifat025/text.html.git
+https://sifat025.github.io/text.html/
